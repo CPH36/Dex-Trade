@@ -1,5 +1,5 @@
 {
-  "BASE/QUOTE": SOL/COC { 
+  "BASE/QUOTE": { SOL/COC 
     "price": 0.0000438, 
     "up": 0.02,
     "down": 0.02  
